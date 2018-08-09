@@ -1,0 +1,6 @@
+body {
+	display: grid;
+	grid-template: 'main main info' / 2fr
+								 'main main info' / 2fr
+								 'input input input' / 1fr;
+}
